@@ -1,0 +1,9 @@
+1.	Compressed folder contains build.sh which will compile the file as well as convert an .text file into html file
+
+2.	./build.sh filename.tex outputfilename.html    --> This will convert an filename.tex into outputfilename.html
+
+3. 	Assignemnt has been made in java using antlr4
+
+4. 	antlr4 must be installed before running the script
+
+5.	A folder with already compiled files is also placed inside zip folder.
